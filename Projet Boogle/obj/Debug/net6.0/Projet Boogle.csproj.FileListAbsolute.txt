@@ -1,0 +1,4 @@
+C:\Users\grego\OneDrive\Bureau\Algo & POO\Projet Boogle\Projet Boogle\obj\Debug\net6.0\Projet Boogle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Bureau\Algo & POO\Projet Boogle\Projet Boogle\obj\Debug\net6.0\Projet Boogle.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Bureau\Algo & POO\Projet Boogle\Projet Boogle\obj\Debug\net6.0\Projet Boogle.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Bureau\Algo & POO\Projet Boogle\Projet Boogle\obj\Debug\net6.0\Projet Boogle.csproj.CoreCompileInputs.cache

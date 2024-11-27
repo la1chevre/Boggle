@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\bin\Debug\net6.0\BoogleGame.exe
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\bin\Debug\net6.0\BoogleGame.deps.json
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\bin\Debug\net6.0\BoogleGame.runtimeconfig.json
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\bin\Debug\net6.0\BoogleGame.dll
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\bin\Debug\net6.0\BoogleGame.pdb
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.AssemblyInfo.cs
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.dll
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\refint\BoogleGame.dll
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.pdb
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\BoogleGame.genruntimeconfig.cache
+C:\Users\maxim\source\repos\BoogleGame\BoogleGame\obj\Debug\net6.0\ref\BoogleGame.dll
